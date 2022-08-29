@@ -6,5 +6,4 @@ public class J02 {
         boolean input_greater_than_hundred = (input > 100)? true:false;
         System.out.println(input_greater_than_hundred);
     }
-    
 }
